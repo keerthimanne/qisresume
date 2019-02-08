@@ -1,0 +1,58 @@
+{
+"card1":{
+"image": "is.jpg",
+		"name": "sathya",
+		"occupation": "student",
+		"profile": "profile"
+	},
+	"card2": {
+		"image": "is.jpg",
+		"name": "sathya",
+		"occupation": "student",
+		"profile": "profile"
+	},
+	"personalDetails": {
+		"myname": "keerthi",
+		"image": "image/image.png",
+		"designation": "student",
+		"fname": "d/o venkateswarlu",
+		"email": "mannekeerthi33@gmail.com",
+		"phoneno": "9966559269",
+		"address": "6-160,adv"
+
+	},
+	"careerObject": {
+		"object": "career object",
+		"car": "To secure a challenging position in a reputable organizationto expand my learning,knowledge and skills."
+	},
+	"educationalqualifications": [{
+			"qualification": "btech",
+			"inst": "bachelors of technology,qis college of engineering and technology,ongole,afflicated to jntu kakinada,2016-20 batch,secured 81% of marks."
+		}, {
+			"qualification": "Intermediate",
+			"inst": "srichaitanya junior college,guntur,secured 95% of marks."
+		},
+		{
+			"qualification": "Ssc:",
+			"inst": "sri srichaitanya,dachepalli,secured 92% of marks."
+		}
+	],
+	"Technicalskills": [{
+			"name": "operating system",
+			"org": "WINDOWS,LINUX"
+		},
+		{
+			"name": "language",
+			"org": "c,c++"
+		}
+	],
+
+	"Awardsandachievements": {
+		"awdname": "Awards and achievements",
+		"achieve": "paper presentation"
+	},
+	"Hobbies": {
+		"hobbies": "Hobbies",
+		"hobbie": "Reading books,playing games"
+	}
+}

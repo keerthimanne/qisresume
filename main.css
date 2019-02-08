@@ -1,0 +1,19 @@
+*{
+  text-transform: uppercase;
+  text-align: center;
+}
+. card{
+   background:blue;
+   width:30%;
+   margin left:auto;
+   padding:3px 0px 2px 0px;
+   border-radius: 5px;
+   box-shadow: 2px 2px 2px blue;
+}
+.cards{
+  display:flex;
+}
+/* media */
+@media (min-device-width:350px) and (max-device-width:480px) {
+  
+}
